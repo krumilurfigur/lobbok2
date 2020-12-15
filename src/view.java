@@ -5,5 +5,5 @@ public class view {
     private JButton newEntryButton;
     private JButton loadButton;
     private JButton saveButton;
-    private JTextArea textArea1;
+    private JTextArea entryBody;
 }

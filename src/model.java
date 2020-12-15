@@ -1,3 +1,4 @@
+
 public class model {
     public static void main(String[] args) {
         author gabriel = new author("gabriel", "oberg");
